@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+I'm+Dev+Rajoriya;Full+Stack+Developer" alt="Typing SVG" />
-</div>
+  <h1>👋 I'm Dev Rajoriya</h1>
+  <h3>Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-rajoriya&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="dev-rajoriya" />
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dev-rajoriya&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="dev-rajoriya" />
+  </p>
+</div>
 
 ---
 
@@ -40,10 +41,6 @@
 ---
 
 ## 📈 Activity & Metrics
-<p align="center">
-  <img align="left" height="185em" src="https://github-readme-stats.vercel.app/api?username=dev-rajoriya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img align="center" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rajoriya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rajoriya&theme=tokyonight&hide_border=true" />
